@@ -1,15 +1,31 @@
-### Hi there 👋
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
 
-🔭 I’m currently working on Software Engineer at TCS
-🌱 I’m currently learning React
+<h2> Hey there! 👋 I'm Ajith. </h2>
+
+
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp I’m currently working on Software Engineer at TCS <br>
+-🌱 &nbsp I’m currently learning React
 
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
 
 Happy Coding! 😊
+
+<h3>🛠 Tech Stack</h3>
+ 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap |
+<!-- - 🛢 &nbsp; MySQL | Firebase | Xampp -->
+- 🔧 &nbsp; Visual Studio code| Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop 
+
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AjithPG&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ajith's Github Stats">
 
 <div align="center">
 
@@ -23,6 +39,7 @@ Happy Coding! 😊
 
 </div>
 
+⭐️ From [Ajith Pg](https://github.com/AjithPG)
 
 <!--
 **AjithPG/AjithPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
