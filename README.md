@@ -6,8 +6,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🔭 I’m currently working on Software Engineer at TCS <br>
-  -🌱  I’m currently learning React
+  - 🔭 I’m currently working on Software Engineer at TCS
+  - 🌱 I’m currently learning React
 
 
 You have finally discovered my Github profile. <br>
