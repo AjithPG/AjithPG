@@ -1,6 +1,28 @@
 ### Hi there 👋
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
+
+🔭 I’m currently working on Software Engineer at TCS
+🌱 I’m currently learning React
+
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone projects and raise issues if you think something could be better.
+
+Happy Coding! 😊
+
+<div align="center">
+
+
+
+<i>Follow me:</i><br>
+
+<a href="https://www.linkedin.com/in/ajith-pg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/lazy_learne6/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+
+</div>
+
 
 <!--
 **AjithPG/AjithPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
