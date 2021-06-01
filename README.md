@@ -6,8 +6,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp I’m currently working on Software Engineer at TCS <br>
--🌱 &nbsp I’m currently learning React
+  - 🔭 I’m currently working on Software Engineer at TCS <br>
+  -🌱  I’m currently learning React
 
 
 You have finally discovered my Github profile. <br>
@@ -17,8 +17,7 @@ Happy Coding! 😊
 
 <h3>🛠 Tech Stack</h3>
  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap |
-<!-- - 🛢 &nbsp; MySQL | Firebase | Xampp -->
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Jquery
 - 🔧 &nbsp; Visual Studio code| Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop 
 
