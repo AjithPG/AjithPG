@@ -17,7 +17,7 @@ Happy Coding! 😊
 
 <h3>🛠 Tech Stack</h3>
  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Jquery
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Jquery | React | NextJs | Tailwindcss
 - 🔧 &nbsp; Visual Studio code| Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop 
 
