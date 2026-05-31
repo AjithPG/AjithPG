@@ -70,7 +70,7 @@ Git | Storybook | Jest | Vite | Webpack | Chrome DevTools | Figma
 ## 📫 Connect With Me<br>
 
 <a href="https://www.linkedin.com/in/ajith-pg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-- 📧 Email: ajithpg2411@gmail.com
+📧 Email: ajithpg2411@gmail.com
 
 
 
